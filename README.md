@@ -1,6 +1,3 @@
-Certainly! Here's a sample README.md for your Node.js note-taking application:
-
----
 
 # 📝 Node.js Mini Project: Notes App
 
