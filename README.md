@@ -3,6 +3,9 @@
 
 A simple command-line note-taking application built with Node.js.
 
+
+
+
 Below is an image of project in action.
 
 ![Project Image](https://github.com/Chaitanya-Gautam/Notes_app/blob/main/notes.jpg)
